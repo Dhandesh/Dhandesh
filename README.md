@@ -2,6 +2,7 @@
 
 As a passionate **Front-end Developer**, I specialize in building dynamic, scalable, and efficient web applications. My expertise lies in creating seamless, user-friendly front-end interfaces using **React.js** and robust.
 
+---
 
 ### 👨‍💻 What I Do:
 
