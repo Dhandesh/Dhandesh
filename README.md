@@ -13,7 +13,7 @@ As a passionate **Front-end Developer**, I specialize in building dynamic, scala
 ---
 
 - 📫 How to reach me :
-<br /> -  🔭 Here's my [portfolio](https://dhandesh-portfolio.netlify.app/)) 
+<br /> -  🔭 Here's my [portfolio](https://dhandesh-portfolio.netlify.app/)
 <br /> - **LinkedIn**: [Dhandeshwaran](https://www.linkedin.com/in/dhandeshwaran/)
 
 ### I code in
